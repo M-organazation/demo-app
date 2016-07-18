@@ -1,0 +1,5 @@
+This is a dummy file!
+
+Other new line !
+
+Other new change for the dummy file!
