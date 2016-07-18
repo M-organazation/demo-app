@@ -1,0 +1,7 @@
+blah
+Edited this line
+Echoing into my file
+And now to add more words
+and added another line
+and added another line, part2
+and added another line, part3
